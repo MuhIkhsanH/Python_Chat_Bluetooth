@@ -10,9 +10,11 @@ Program ini memungkinkan komunikasi dua arah (chat) antara **PC** dan **HP** mel
 PC dan HP terhubung melalui Bluetooth, saling bertukar pesan teks.
 
 ![PC](PC.PNG)
+
 *PC mengirim pesan ke HP*
 
 ---
 
 ![HP](HP.jpg)
+
 *HP membalas pesan ke PC*
